@@ -1,5 +1,7 @@
 # Inventory Management Dashboard 📊
 
+![Inventory Management Dashboard](IMD.jpg)
+
 This Inventory Management Dashboard, built using Power BI, provides a comprehensive overview of key inventory metrics, facilitating data-driven decision-making. It showcases dynamic visuals and actionable insights that are essential for optimizing stock management.
 
 ## Dashboard Features
