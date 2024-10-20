@@ -38,3 +38,5 @@ This Inventory Management Dashboard, built using Power BI, provides a comprehens
   
 - **Stock Distribution:** 
   - Visualizes stock distribution across different ABC and XYZ categories.
+
+#Wallpaper By FREEPIK
